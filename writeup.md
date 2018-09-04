@@ -25,9 +25,9 @@ The goals / steps of this project are the following:
 [image301]: ./output_images/search_draw_win/just_windows.jpg
 [image4]: ./output_images/search_draw_win/search_draw_win.jpg
 [image401]: ./output_images/search_draw_win/search_draw_win_overlap04.jpg
-[image5]: ./output_images\hog_subsample_heat/labeled_car_heat_1.5.jpg
-[image501]: ./output_images\hog_subsample_heat/labeled_car_heat.jpg
-[image7]: ./output_images\hog_subsample_heat/labeled_car_heat_output_bboxes.jpg
+[image5]: ./output_images/hog_subsample_heat/labeled_car_heat_1.5.jpg
+[image501]: ./output_images/hog_subsample_heat/labeled_car_heat.jpg
+[image7]: ./output_images/hog_subsample_heat/labeled_car_heat_output_bboxes.jpg
 [video1]: ./output_project_video_scaled.mp4
 [video101]: ./output_project_combined_video_scaled.mp4
 [video102]: ./output_project_combined_video_1.5.mp4
@@ -151,7 +151,7 @@ Here's a [link to my video result showing vehicle and lane detection together](.
 
 OR
 
-[link to my video result showing vehicle and lane detection together](./output_project_combined_video_1.5.mp4) 
+[link to my video result showing vehicle and lane detection together](./output_project_combined_video_1.5.mp4)
 
 
 
