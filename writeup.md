@@ -146,7 +146,7 @@ Here's a [link to my video result](./output_project_video_scaled.mp4)
 
 As an extension to this current project I combined the `lane detection` code with the `vehicle detection` pipeline in the following video. The `test_combined_video.py` file contains the image processing function to combine the `lane detected` image with `vehicle detection`.
 
-Here's a [link to my video result showing vehicle and lane detection together](./output_project_video_scaled.mp4)
+Here's a [link to my video result showing vehicle and lane detection together](./output_project_combined_video_scaled.mp4)
 
 
 #### 2. Describe how (and identify where in your code) you implemented some kind of filter for false positives and some method for combining overlapping bounding boxes.
